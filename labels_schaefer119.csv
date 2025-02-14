@@ -1,0 +1,120 @@
+regionlr,regionlabel,oldlabels,labels,label,region,anatomical description
+1,Visual,LH_Vis_1,Vis_1,1,7,left fusiform/parahippocampal area
+1,Visual,LH_Vis_2,Vis_2,2,7,ventral part of the left visual association cortices
+1,Visual,LH_Vis_3,Vis_3,3,7,left lingual gyrus
+1,Visual,LH_Vis_4,Vis_4,4,7,left inferior lateral occipita lobe
+1,Visual,LH_Vis_5,Vis_5,5,7,left posterior cuneus/lingual gyrus
+1,Visual,LH_Vis_6,Vis_6,6,7,anterior left lingual gyrus 
+1,Visual,LH_Vis_7,Vis_7,7,7,
+1,Visual,LH_Vis_8,Vis_8,8,7,superior left occipital lobe
+1,Visual,LH_Vis_9,Vis_9,9,7,
+2,Somatomotor,LH_SomMot_1,SomMot_1,10,5,
+2,Somatomotor,LH_SomMot_2,SomMot_2,11,5,inferior/ventral part left somatomotor cortex 
+2,Somatomotor,LH_SomMot_3,SomMot_3,12,5,
+2,Somatomotor,LH_SomMot_4,SomMot_4,13,5,
+2,Somatomotor,LH_SomMot_5,SomMot_5,14,5,
+2,Somatomotor,LH_SomMot_6,SomMot_6,15,5,left supplementary motor area
+3,Dorsal Attention,LH_DorsAttn_Post_1,Post_1,16,2,left lateral temporooccipital cortices
+3,Dorsal Attention,LH_DorsAttn_Post_2,Post_2,17,2,
+3,Dorsal Attention,LH_DorsAttn_Post_3,Post_3,18,2,left intraparietal sulcus/superior parietal lobule area
+3,Dorsal Attention,LH_DorsAttn_Post_4,Post_4,19,2,left postecentral sulcus
+3,Dorsal Attention,LH_DorsAttn_Post_5,Post_5,20,2,left superior precuneus
+3,Dorsal Attention,LH_DorsAttn_Post_6,Post_6,21,2,
+3,Dorsal Attention,LH_DorsAttn_PrCv_1,PrCv_1,22,2,left ventral precentral gyrus
+3,Dorsal Attention,LH_DorsAttn_FEF_1,FEF_1,23,2,left frontal eye field
+4,Ventral Attention,LH_SalVentAttn_ParOper_1,ParOper_1,24,6,left parietal operculum/inferior parietal lobule
+4,Ventral Attention,LH_SalVentAttn_FrOperIns_1,FrOperIns_1,25,6,"left insula, frontal operculum (inferior part)"
+4,Ventral Attention,LH_SalVentAttn_FrOperIns_2,FrOperIns_2,26,6,"left insula, frontal operculum (superior part)"
+4,Ventral Attention,LH_SalVentAttn_PFCl_1,PFCl_1,27,6,
+4,Ventral Attention,LH_SalVentAttn_Med_1,Med_1,28,6,middle cingulate cortex
+4,Ventral Attention,LH_SalVentAttn_Med_2,Med_2,29,6,left paracentral lobule
+4,Ventral Attention,LH_SalVentAttn_Med_3,Med_3,30,6,left anterior medial PFC/superior frontal lobe
+5,Limbic,LH_Limbic_OFC_1,OFC_1,31,4,left orbitofrontal cortex
+5,Limbic,LH_Limbic_TempPole_1,TempPole_1,32,4,left temporopolar/rhinal area
+5,Limbic,LH_Limbic_TempPole_2,TempPole_2,33,4,left inferior temporal/fusiform gyrus
+6,Frontoparietal,LH_Cont_Par_1,Par_1,34,3,left superior parietal lobule
+6,Frontoparietal,LH_Cont_PFCl_1,PFCl_1,35,3,left middle dorsolateral PFC
+6,Frontoparietal,LH_Cont_pCun_1,pCun_1,36,3,left precuneus
+6,Frontoparietal,LH_Cont_Cing_1,Cing_1,37,3,
+7,Default mode,LH_Default_Temp_1,Temp_1,38,1,left lateral anterior part of temporal lobe
+7,Default mode,LH_Default_Temp_2,Temp_2,39,1,left middle temporal gyrus
+7,Default mode,LH_Default_Par_1,Par_1,40,1,left inferior parietal-occipital area
+7,Default mode,LH_Default_Par_2,Par_2,41,1,left angular gyrus 
+7,Default mode,LH_Default_PFC_1,PFC_1,42,1,left lateral orbitofrontal cortex
+7,Default mode,LH_Default_PFC_2,PFC_2,43,1,left ventrolateral PFC/inferior frontal gyrus
+7,Default mode,LH_Default_PFC_3,PFC_3,44,1,left ventromedial medial PFC
+7,Default mode,LH_Default_PFC_4,PFC_4,45,1,left lateral PFC
+7,Default mode,LH_Default_PFC_5,PFC_5,46,1,left superior dorsal medial PFC
+7,Default mode,LH_Default_PFC_6,PFC_6,47,1,left middle frontal gyrus 
+7,Default mode,LH_Default_PFC_7,PFC_7,48,1,left superior frontal sulcus  
+7,Default mode,LH_Default_pCunPCC_1,pCunPCC_1,49,1,posterior area of the left lateral PFC 
+7,Default mode,LH_Default_pCunPCC_2,pCunPCC_2,50,1,left precuneus/posterior cingulate cortex
+15,Visual,RH_Vis_1,Vis_1,51,7,right fusiform/parahippocampal area
+15,Visual,RH_Vis_2,Vis_2,52,7,ventral part of the right visual association cortices
+15,Visual,RH_Vis_3,Vis_3,53,7,right inferior temporal gyrus/lateral visual association cortices
+15,Visual,RH_Vis_4,Vis_4,54,7,right inferior occipital lobe
+15,Visual,RH_Vis_5,Vis_5,55,7,
+15,Visual,RH_Vis_6,Vis_6,56,7,
+15,Visual,RH_Vis_7,Vis_7,57,7,
+15,Visual,RH_Vis_8,Vis_8,58,7,
+14,Somatomotor,RH_SomMot_1,SomMot_1,59,5,
+14,Somatomotor,RH_SomMot_2,SomMot_2,60,5,"inferior part of right somatomotor cortex, around sylvian fissure"
+14,Somatomotor,RH_SomMot_3,SomMot_3,61,5,inferior part of right somatomotor cortex
+14,Somatomotor,RH_SomMot_4,SomMot_4,62,5,
+14,Somatomotor,RH_SomMot_5,SomMot_5,63,5,"middle part of right somatomotor cortex, central sulcus"
+14,Somatomotor,RH_SomMot_6,SomMot_6,64,5,"superior part of right somatomotor cortex, central sulcus"
+14,Somatomotor,RH_SomMot_7,SomMot_7,65,5,"superior part of right somatomotor cortex, postcentral sulcus"
+14,Somatomotor,RH_SomMot_8,SomMot_8,66,5,right supplementary motor area
+13,Dorsal Attention,RH_DorsAttn_Post_1,Post_1,67,2,right lateral temporooccipital cortices
+13,Dorsal Attention,RH_DorsAttn_Post_2,Post_2,68,2,right postcentral sulcus
+13,Dorsal Attention,RH_DorsAttn_Post_3,Post_3,69,2,right intraparietal sulcus/superior parietal lobule area
+13,Dorsal Attention,RH_DorsAttn_Post_4,Post_4,70,2,right dorsal posterior parietal lobe 
+13,Dorsal Attention,RH_DorsAttn_Post_5,Post_5,71,2,right superior precuneus
+13,Dorsal Attention,RH_DorsAttn_PrCv_1,PrCv_1,72,2,
+13,Dorsal Attention,RH_DorsAttn_FEF_1,FEF_1,73,2,
+12,Ventral Attention,RH_SalVentAttn_TempOccPar_1,TempOccPar_1,74,6,right parietal operculum/inferior parietal lobule
+12,Ventral Attention,RH_SalVentAttn_TempOccPar_2,TempOccPar_2,75,6,right supramarginal gyrus
+12,Ventral Attention,RH_SalVentAttn_FrOperIns_1,FrOperIns_1,76,6,right frontal operculum/insula
+12,Ventral Attention,RH_SalVentAttn_Med_1,Med_1,77,6,inferior part of the right paracentral lobule /cingulate sulcus
+12,Ventral Attention,RH_SalVentAttn_Med_2,Med_2,78,6,
+11,Limbic,RH_Limbic_OFC_1,OFC_1,79,4,right orbitofrontal cortex
+11,Limbic,RH_Limbic_TempPole_1,TempPole_1,80,4,right temporopolar/rhinal area
+10,Frontoparietal,RH_Cont_Par_1,Par_1,81,3,right inferior parietal lobule
+10,Frontoparietal,RH_Cont_Par_2,Par_2,82,3,right posterior parietal lobe
+10,Frontoparietal,RH_Cont_PFCl_1,PFCl_1,83,3,right inferior lateral prefrontal cortex
+10,Frontoparietal,RH_Cont_PFCl_2,PFCl_2,84,3,
+10,Frontoparietal,RH_Cont_PFCl_3,PFCl_3,85,3,
+10,Frontoparietal,RH_Cont_PFCl_4,PFCl_4,86,3,right superior frontal gyrus
+10,Frontoparietal,RH_Cont_Cing_1,Cing_1,87,3,right posterior cingulate cortex
+10,Frontoparietal,RH_Cont_PFCmp_1,PFCmp_1,88,3,
+10,Frontoparietal,RH_Cont_pCun_1,pCun_1,89,3,right precuneus
+9,Default mode,RH_Default_Par_1,Par_1,90,1,
+9,Default mode,RH_Default_Temp_1,Temp_1,91,1,right middle temporal sulcus
+9,Default mode,RH_Default_Temp_2,Temp_2,92,1,right lateral/polar temporal lobe
+9,Default mode,RH_Default_Temp_3,Temp_3,93,1,right middle temporal lobe
+9,Default mode,RH_Default_PFCv_1,PFCv_1,94,1,right ventrolateral (more ventral part) PFC
+9,Default mode,RH_Default_PFCv_2,PFCv_2,95,1,right inferior frontal gyrus/ventrolateral PFC
+9,Default mode,RH_Default_PFCdPFCm_1,PFCdPFCm_1,96,1,right middle medial PFC/ACC
+9,Default mode,RH_Default_PFCdPFCm_2,PFCdPFCm_2,97,1,right dorsomedial PFC
+9,Default mode,RH_Default_PFCdPFCm_3,PFCdPFCm_3,98,1,right superior frontal sulcus
+9,Default mode,RH_Default_pCunPCC_1,pCunPCC_1,99,1,right ventral precuneus/isthmus of cingulate cortex
+9,Default mode,RH_Default_pCunPCC_2,pCunPCC_2,100,1,right medial precuneus/posterior cingulate cortex
+8,Subcortical,CEREBELLUM_LEFT,Cerebellum,101,8,
+8,Subcortical,THALAMUS_LEFT,Thalamus,102,8,
+8,Subcortical,CAUDATE_LEFT,Caudate,103,8,
+8,Subcortical,PUTAMEN_LEFT,Putamen,104,8,
+8,Subcortical,PALLIDUM_LEFT,Pallidum,105,8,
+8,Subcortical,BRAIN_STEM,Brain_Stem,106,8,
+8,Subcortical,HIPPOCAMPUS_LEFT,Hippocampus,107,8,
+8,Subcortical,AMYGDALA_LEFT,Amygdala,108,8,
+8,Subcortical,ACCUMBENS_LEFT,Accumbens,109,8,
+8,Subcortical,DIENCEPHALON_VENTRAL_LEFT,Diencephalon_Ventral,110,8,
+8,Subcortical,CEREBELLUM_RIGHT,Cerebellum,111,8,
+8,Subcortical,THALAMUS_RIGHT,Thalamus,112,8,
+8,Subcortical,CAUDATE_RIGHT,Caudate,113,8,
+8,Subcortical,PUTAMEN_RIGHT,Putamen,114,8,
+8,Subcortical,PALLIDUM_RIGHT,Pallidum,115,8,
+8,Subcortical,HIPPOCAMPUS_RIGHT,Hippocampus,116,8,
+8,Subcortical,AMYGDALA_RIGHT,Amygdala,117,8,
+8,Subcortical,ACCUMBENS_RIGHT,Accumbens,118,8,
+8,Subcortical,DIENCEPHALON_VENTRAL_RIGHT,Diencephalon_Ventral,119,8,
