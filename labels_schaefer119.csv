@@ -15,7 +15,7 @@ regionlr,regionlabel,oldlabels,labels,label,region,anatomical description
 2,Somatomotor,LH_SomMot_5,SomMot_5,14,5,
 2,Somatomotor,LH_SomMot_6,SomMot_6,15,5,left supplementary motor area
 3,Dorsal Attention,LH_DorsAttn_Post_1,Post_1,16,2,left lateral temporooccipital cortices
-3,Dorsal Attention,LH_DorsAttn_Post_2,Post_2,17,2,
+3,Dorsal Attention,LH_DorsAttn_Post_2,Post_2,17,2,left supramarginal gyrus
 3,Dorsal Attention,LH_DorsAttn_Post_3,Post_3,18,2,left intraparietal sulcus/superior parietal lobule area
 3,Dorsal Attention,LH_DorsAttn_Post_4,Post_4,19,2,left postecentral sulcus
 3,Dorsal Attention,LH_DorsAttn_Post_5,Post_5,20,2,left superior precuneus
@@ -23,8 +23,8 @@ regionlr,regionlabel,oldlabels,labels,label,region,anatomical description
 3,Dorsal Attention,LH_DorsAttn_PrCv_1,PrCv_1,22,2,left ventral precentral gyrus
 3,Dorsal Attention,LH_DorsAttn_FEF_1,FEF_1,23,2,left frontal eye field
 4,Ventral Attention,LH_SalVentAttn_ParOper_1,ParOper_1,24,6,left parietal operculum/inferior parietal lobule
-4,Ventral Attention,LH_SalVentAttn_FrOperIns_1,FrOperIns_1,25,6,"left insula, frontal operculum (inferior part)"
-4,Ventral Attention,LH_SalVentAttn_FrOperIns_2,FrOperIns_2,26,6,"left insula, frontal operculum (superior part)"
+4,Ventral Attention,LH_SalVentAttn_FrOperIns_1,FrOperIns_1,25,6,left insula, frontal operculum (inferior part)
+4,Ventral Attention,LH_SalVentAttn_FrOperIns_2,FrOperIns_2,26,6,left insula, frontal operculum (superior part)
 4,Ventral Attention,LH_SalVentAttn_PFCl_1,PFCl_1,27,6,
 4,Ventral Attention,LH_SalVentAttn_Med_1,Med_1,28,6,middle cingulate cortex
 4,Ventral Attention,LH_SalVentAttn_Med_2,Med_2,29,6,left paracentral lobule
@@ -58,12 +58,12 @@ regionlr,regionlabel,oldlabels,labels,label,region,anatomical description
 15,Visual,RH_Vis_7,Vis_7,57,7,
 15,Visual,RH_Vis_8,Vis_8,58,7,
 14,Somatomotor,RH_SomMot_1,SomMot_1,59,5,
-14,Somatomotor,RH_SomMot_2,SomMot_2,60,5,"inferior part of right somatomotor cortex, around sylvian fissure"
+14,Somatomotor,RH_SomMot_2,SomMot_2,60,5,inferior part of right somatomotor cortex, around sylvian fissure
 14,Somatomotor,RH_SomMot_3,SomMot_3,61,5,inferior part of right somatomotor cortex
 14,Somatomotor,RH_SomMot_4,SomMot_4,62,5,
-14,Somatomotor,RH_SomMot_5,SomMot_5,63,5,"middle part of right somatomotor cortex, central sulcus"
-14,Somatomotor,RH_SomMot_6,SomMot_6,64,5,"superior part of right somatomotor cortex, central sulcus"
-14,Somatomotor,RH_SomMot_7,SomMot_7,65,5,"superior part of right somatomotor cortex, postcentral sulcus"
+14,Somatomotor,RH_SomMot_5,SomMot_5,63,5,middle part of right somatomotor cortex, central sulcus
+14,Somatomotor,RH_SomMot_6,SomMot_6,64,5,superior part of right somatomotor cortex, central sulcus
+14,Somatomotor,RH_SomMot_7,SomMot_7,65,5,superior part of right somatomotor cortex, postcentral sulcus
 14,Somatomotor,RH_SomMot_8,SomMot_8,66,5,right supplementary motor area
 13,Dorsal Attention,RH_DorsAttn_Post_1,Post_1,67,2,right lateral temporooccipital cortices
 13,Dorsal Attention,RH_DorsAttn_Post_2,Post_2,68,2,right postcentral sulcus
@@ -118,3 +118,4 @@ regionlr,regionlabel,oldlabels,labels,label,region,anatomical description
 8,Subcortical,AMYGDALA_RIGHT,Amygdala,117,8,
 8,Subcortical,ACCUMBENS_RIGHT,Accumbens,118,8,
 8,Subcortical,DIENCEPHALON_VENTRAL_RIGHT,Diencephalon_Ventral,119,8,
+
