@@ -1,1 +1,1 @@
-![]("SCFCcoupling_figures.jpg")
+![]("/SCFCcoupling_figures.jpg")
