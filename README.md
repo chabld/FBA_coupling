@@ -1,0 +1,1 @@
+![]("SCFCcoupling_figures.jpg")
